@@ -5,6 +5,7 @@ APPS+=fs_readonly_watchdog
 APPS+=strerror
 APPS+=thread-test
 APPS+=wait-for-hr
+APPS+=xor
 APPS+=year-days-to-unix-time
 
 all: ${APPS}
