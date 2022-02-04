@@ -3,6 +3,8 @@
 A collection of small utilities I wrote to solve some problem I was having
 at the time.
 
+`args`: Outputs it's arguments one per line (for troubleshooting quoting and escaping in scripts).
+
 `fs_readonly_watchdog`: Reboot if filesystem is remounted read-only
 
 `httpwatchdog.py`: Reboot kiosk if don't receive message over HTTP.

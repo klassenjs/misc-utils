@@ -1,6 +1,7 @@
 CFLAGS=-std=c99 -Os -pedantic -Wall
 
 APPS=ext4-find-superblocks
+APPS+=args
 APPS+=fs_readonly_watchdog
 APPS+=strerror
 APPS+=thread-test
