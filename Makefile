@@ -8,6 +8,7 @@ APPS+=thread-test
 APPS+=wait-for-hr
 APPS+=xor
 APPS+=year-days-to-unix-time
+APPS+=zeros
 
 all: ${APPS}
 

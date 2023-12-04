@@ -37,5 +37,7 @@ A collection of example code snippets to explore synatax or library behavior.
 
 `year-days-to-unix-time`: Calculate a `time_t` from a year and day-of-year.
 
+`zeros`: Calculates blocks of all zeros in a file.  (Estimate potential sparseness).
+
 `zombie`: Create 'zombie' processes by not cleaning up after children right away.
 
